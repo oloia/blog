@@ -1,0 +1,4 @@
+NODE_ENV = development
+
+MONGO_URL = mongodb://127.0.0.1:27017/movie
+LWT_SECRET = 238@0daj9jf2@@@!
