@@ -76,7 +76,7 @@ module.exports = {
         },
     },
     plugins: [
-        plugin((addComponents, theme, addUtilities) => {
+        plugin(({ addComponents, theme, addUtilities }) => {
             addComponents({
                 '.btn-primary': {
                     backgroundColor: primary,

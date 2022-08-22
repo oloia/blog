@@ -17,8 +17,8 @@
     "baseUrl": "./app/",
     "paths": {
       "@/components/*": ["components/*"],
-      "@/ui/*": ["components/ui/*"],
-      "@/screens/*": ["components/screens/*"],
+//      "@/ui/*": ["components/ui/*"],
+//      "@/screens/*": ["components/screens/*"],
 
       "@/hooks/*": ["hooks/*"],
       "@/shared/*": ["shared/*"],
